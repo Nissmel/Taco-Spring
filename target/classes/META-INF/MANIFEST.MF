@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Mariola
+Build-Jdk: 12.0.1
+Implementation-Title: taco-cloud
+Implementation-Version: 1.0
+Implementation-Vendor-Id: sia
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/taco-cloud
+Created-By: Maven Integration for Eclipse
+
